@@ -1,0 +1,13 @@
+{
+  "contacts": [
+    {
+      "phoneNum": "0644401512",
+      "name": "Milos"
+    },
+    {
+      "phoneNum": "0644401512",
+      "name": "Pera"
+    }
+  ],
+  "message": "Hi $"
+}
